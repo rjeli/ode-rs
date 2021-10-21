@@ -1,0 +1,10 @@
+[package]
+name = "ode-rs"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+ode-sys = { version = "0.1.0", path = "../ode-sys" }
+
+[dev-dependencies]
+kiss3d = "0.31.0"

@@ -1,0 +1,10 @@
+[package]
+name = "ode-sys"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+
+[build-dependencies]
+bindgen = "0.59.1"
+cmake = "0.1.46"

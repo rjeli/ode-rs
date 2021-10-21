@@ -1,0 +1,4 @@
+[submodule "ode-sys/upstream"]
+	path = ode-sys/upstream
+	url = https://bitbucket.org/odedevs/ode.git
+	branch = 0.16.x
